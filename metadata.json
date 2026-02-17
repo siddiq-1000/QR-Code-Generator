@@ -1,0 +1,7 @@
+{
+  "name": "QR GenAI - Advanced QR Architect",
+  "description": "A high-performance QR code generator featuring AI-driven style suggestions and logo embedding for professional branding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
