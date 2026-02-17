@@ -229,7 +229,7 @@ const App: React.FC = () => {
             </button>
 
             {isAboutOpen && (
-              <div className="absolute top-full right-0 mt-3 w-80 md:w-96 bg-black border border-white/20 shadow-2xl rounded-3xl overflow-hidden dropdown-animate z-[100] p-8 text-white">
+              <div className="absolute top-full right-0 mt-3 w-80 md:w-96 bg-black border border-white/20 shadow-2xl rounded-3xl overflow-hidden dropdown-animate z-[100] p-8 text-white tracking-normal">
                 <div className="flex flex-col gap-6">
                   <div className="relative w-20 h-20 rounded-2xl overflow-hidden bg-white/5 border border-white/10 group/img flex items-center justify-center cursor-pointer">
                     {aboutImage ? (
